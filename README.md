@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaddar Kumar Chaudhary</h1>
+<h1 align="center">Hi 👋, Welcome to my profile</h1>
 <h3 align="center">CSE Undergrad'24 | Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaddarkumar7447&label=Profile%20views&color=0e75b6&style=flat" alt="gaddarkumar7447" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [about.me/gaddarkumar](about.me/gaddarkumar)
+- 👨‍💻 All about me [about.me/gaddarkumar](about.me/gaddarkumar)
 
 - 📫 How to reach me **gaddarkumar7447@gmail.com**
 
