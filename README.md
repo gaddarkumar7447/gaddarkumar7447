@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaddarkumar7447&label=Profile%20views&color=0e75b6&style=flat" alt="gaddarkumar7447" /> </p>
 
-- 🔭 I’m currently working on [Note App](https://github.com/gaddarkumar7447/Note-App)
+- 🔭 I’m currently working on [Photo Store](https://github.com/gaddarkumar7447/Store-photo)
 
 - 🌱 I’m currently learning **React Native**
 
