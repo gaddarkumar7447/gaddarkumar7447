@@ -32,7 +32,8 @@
 
 <p align="left">
 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+<img src="https://user-images.githubusercontent.com/53803245/114309142-d96df000-9b03-11eb-886d-8cbdbdae7c9b.png" alt="Android" width="48" height="48"/>
+  <img src="https://user-images.githubusercontent.com/53803245/131665166-e5b0330e-a07f-473d-9f44-8a0d37f293d2.png" alt="Kotlin" width="35" height="35"/><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
