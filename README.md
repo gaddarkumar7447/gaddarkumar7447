@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 My portfollio [click here](https://gaddarkumar7447.github.io/My-portffilio/)
+- 👨‍💻 My portfollio [click here](https://gaddarkumar7447.github.io/My-Portfolio/)
 
 - 👨‍💻 All about me [about.me/gaddarkumar](about.me/gaddarkumar)
 
