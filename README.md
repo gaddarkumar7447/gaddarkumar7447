@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [News App](https://github.com/gaddarkumar7447/News-App)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 My portfollio [click here](https://gaddarkumar7447.github.io/My-Portfolio/)
 
