@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaddarkumar7447&label=Profile%20views&color=0e75b6&style=flat" alt="gaddarkumar7447" /> </p>
 
-- 🔭 I’m currently working Android Development intern at [Shoppeal Tech](https://shoppealtech.com/)
+- 🔭 I’m currently working on [ChatApp](https://github.com/gaddarkumar7447/Chat-App)
 
 - 🌱 I’m currently learning **Flutter**
 
