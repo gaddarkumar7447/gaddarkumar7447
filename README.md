@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [5techG](https://5techg.com/)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Compose**
 
 - 👨‍💻 My portfollio [click here](https://gaddarkumar7447.github.io/My-Portfolio/)
 
